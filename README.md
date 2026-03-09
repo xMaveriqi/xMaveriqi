@@ -1,6 +1,6 @@
 ## Hello World! I'm Yago 🌵
 
-💻 High school student majoring in Systems Development
+💻 High school student | systems development technician 
 
 ---
 
