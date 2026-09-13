@@ -1,15 +1,26 @@
-<div align="center">
+<p align="center">
+<video src="https://github.com/user-attachments/assets/e758f585-d4ec-401c-81bd-78a327325ffb" width="100%" autoplay loop muted playsinline></video>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=DC143C&width=435&lines=Yago+Silva;Systems+Development+Student;The+world+is+yours.)](https://git.io/typing-svg)
+<p align="center">
+<img src="./rize1.jpg" width="100%"/>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=xMaveriqi&style=flat-square&color=8B0000&label=PROFILE+VIEWS)](https://github.com/xMaveriqi)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=1000&color=DC143C&width=340&lines=Yago+Silva;Systems+Development+Student;The+world+is+yours." /></a>
+</p>
 
-</div>
+<p align="center">
+<a href="https://github.com/xMaveriqi"><img src="https://komarev.com/ghpvc/?username=xMaveriqi&style=flat-square&color=8B0000&label=PROFILE+VIEWS" /></a>
+</p>
 
 ---
 
 <table>
 <tr>
+<td width="260">
+<img src="./rize3.jpg" width="260"/>
+</td>
 <td valign="top">
 
 ```
@@ -18,9 +29,8 @@
 ◈  Origin    →  Brazil 🇧🇷
 ```
 
-</td>
-<td width="260">
-<img src="./assets/rize-photo.jpg" width="260"/>
+I'm Yago — building full-stack web projects, IoT systems, and client sites, with a strong curiosity for cybersecurity and how things work under the hood.
+
 </td>
 </tr>
 </table>
@@ -45,49 +55,36 @@
 
 ---
 
-## Featured Projects
-<a name="featured-projects"></a>
+<table>
+<tr>
+<td valign="top">
+
+### Featured Projects
 
 - **SolarBeam** — ESP32-based IoT irrigation system (Arduino C++, Node.js/Express API, Turso SQLite)
 - **MyPocket** — Personal finance manager built in PHP with full CRUD
 - **La Sottam Pizzaria** — Pizzeria management system with full UML modeling
+
+</td>
+<td width="260">
+<img src="./rize2.jpg" width="260"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Statistics
 <a name="statistics"></a>
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=xMaveriqi&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=DC143C&icon_color=8B0000&text_color=FFFFFF)
-
-![Streak](https://streak-stats.demolab.com?user=xMaveriqi&theme=dark&ring=DC143C&fire=DC143C&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF)
-
-</div>
-## Contribution Graph
-<a name="contribution-graph"></a>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xMaveriqi&bg_color=0d0d0d&color=DC143C&line=DC143C&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=xMaveriqi&theme=dark&ring=DC143C&fire=DC143C&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="./assets/rize-profile.jpg" width="200"/>
-</div>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/xMaveriqi"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=DC143C" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/yagoosilva"><img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=DC143C" /></a>
 <a href="https://instagram.com/mavewrldd"><img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=DC143C" /></a>
 <a href="mailto:yagocostadasilva8@gmail.com"><img src="https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=gmail&logoColor=DC143C" /></a>
-
-</div>
-
-<!-- Vídeo: suba o arquivo direto em um comentário/issue no GitHub pra gerar o link,
-     depois cole aqui, exemplo:
-<video src="https://github.com/user-attachments/assets/SEU-LINK-AQUI" width="300" controls></video>
--->
+</p>
