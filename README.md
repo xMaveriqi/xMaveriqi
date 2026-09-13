@@ -108,7 +108,7 @@ Pizzeria management system developed with complete UML modeling and structured s
 
 </td>
 </tr>
-</table>---
+</table>
 
 GitHub Stats
 
@@ -116,7 +116,7 @@ GitHub Stats
   <img src="https://streak-stats.demolab.com?user=xMaveriqi&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0D0D0D&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" />
 </p><br><p align="center">
   <img src="./rize3.jpg" width="350"/>
-</p>---
+</p>
 
 Connect
 
