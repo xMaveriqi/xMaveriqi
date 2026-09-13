@@ -8,7 +8,7 @@
   <samp>
     「 Build. Break. Learn. Repeat. 」
   </samp>
-</p><br>---
+</p><br>
 
 About Me
 
@@ -30,7 +30,7 @@ I'm also deeply curious about cybersecurity, infrastructure and how things work 
 
 </td><td width="40%" align="center"><img src="./rize1.jpg" width="280"/></td>
 </tr>
-</table>---
+</table>
 
 Stacks
 
