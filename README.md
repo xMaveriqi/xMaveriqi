@@ -16,7 +16,7 @@ About Me
 <tr>
 <td width="60%">╭────────────────────────────────────╮
 │                                    │
-│  ◈  Name       →  Yago Silva       │
+│  ◈  Name       →  Yago Costa       │
 │  ◈  Role       →  Systems Dev.     │
 │  ◈  Focus      →  Full-Stack       │
 │                  IoT / Security     │
