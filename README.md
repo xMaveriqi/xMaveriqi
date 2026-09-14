@@ -2,7 +2,7 @@
   <img src="./rize.gif" width="100%"/>
 </p><br><p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Yago+Costa;Systems+Development+Student;Full-Stack+%2F+IoT+%2F+Security;The+world+is+yours." />
+    <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Yago+Costa;Systems+Development+Student;Full-Stack+%2F+IoT+%2F+Security." />
   </a>
 </p><p align="center">
   <samp>「 Build. Break. Learn. Repeat. 」</samp>
